@@ -1,0 +1,25 @@
+body {
+	margin:0;
+	padding:0;
+	background: url("images/Baground.png");
+	
+}
+
+.login {
+	position: absolute;
+	top: 50%;
+	left: 55%;
+	transform: translate(-50%, -50%);
+	background: rgba(0,0,0,0.5);
+	padding: 50px;
+	width:550px;
+	box-shadow: 0 0 10px 5px black;
+}
+.text-jalan > * {
+	list-style: none;
+	overflow: hidden;
+	white-space: nowrap;
+	color: white;
+	font-size: 40px;
+}
+
